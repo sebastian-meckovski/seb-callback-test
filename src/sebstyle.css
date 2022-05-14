@@ -1,0 +1,13 @@
+.sebComponent{
+    border: 2px black solid;
+    display:block;
+    align-items: center;
+    padding: 5px;
+}
+
+.sebComponent > button{
+    margin-left: 10px;
+    width: 100px;
+    height: 40px;
+
+}
